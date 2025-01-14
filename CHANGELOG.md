@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-01-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`4c1b774`](https://github.com/stdlib-js/stdlib/commit/4c1b774cde259bba78be12cfe897e1bec49a0430) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dmeanwd` [(#4493)](https://github.com/stdlib-js/stdlib/pull/4493) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
